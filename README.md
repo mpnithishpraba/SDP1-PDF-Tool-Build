@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./LOGO.png" width="140" />
+  <img src="./LOGO.png" width="180" />
 </p>
 
 <h1 align="center">Towards Zero Error PDF Tool</h1>
