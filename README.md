@@ -1,4 +1,8 @@
-# 📄 Towards Zero Error PDF Tool
+<p align="center">
+  <img src="./logo.png" width="80" />
+</p>
+
+<h1 align="center">Towards Zero Error PDF Tool</h1>
 
 <p align="center">
   <b>Lightweight • Fast • Portable PDF Utility built with Python</b>
