@@ -30,7 +30,7 @@
 ## ⬇️ Download
 
 <p align="center">
-  <a href="./dist/PDF%20TOOL.exe">
+  <a href="https://raw.githubusercontent.com/mpnithishpraba/SDP1-PDF-Tool-Build/main/dist/PDF%20TOOL.exe">
     <img src="https://img.shields.io/badge/Download-PDF%20Tool-blue?style=for-the-badge&logo=windows"/>
   </a>
 </p>
@@ -94,8 +94,8 @@
 - 📁 Size < 25 MB  
 
 ### ▶️ Usage
-1. Download the `.exe`  
-2. Double-click to run  
+1. Click the download button  
+2. Open the downloaded `.exe` file  
 3. Select the required tool  
 4. Start processing instantly  
 
